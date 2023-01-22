@@ -1,0 +1,17 @@
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/bin/Debug/net6.0/FormulaAirline.TicketProcessing
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/bin/Debug/net6.0/FormulaAirline.TicketProcessing.deps.json
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/bin/Debug/net6.0/FormulaAirline.TicketProcessing.runtimeconfig.json
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/bin/Debug/net6.0/FormulaAirline.TicketProcessing.dll
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/bin/Debug/net6.0/FormulaAirline.TicketProcessing.pdb
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.AssemblyInfo.cs
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.dll
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/refint/FormulaAirline.TicketProcessing.dll
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.pdb
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.genruntimeconfig.cache
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/ref/FormulaAirline.TicketProcessing.dll
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/sarahchen/VsCode/AirlineMessageBroker/FormulaAirline.TicketProcessing/obj/Debug/net6.0/FormulaAirline.TicketProcessing.csproj.CopyComplete
